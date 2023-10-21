@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheAwesomeMovieApp</string>
+    <string name="compartilhar">COMPARTILHAR</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detalhes">DETALHES</string>
+    <string name="avengers">AVENGERS</string>
+    <string name="avenger">The Avengers were a team of extraordinary individuals, with either superpowers or other special characteristics.</string>
+    <string name="detail_title">Avengers may,4 2012</string>
+    <string name="detail_text">Rating 91%         When Thors evil brother, Loki (Tom Hiddleston),         gains access to the unlimited power of the energy cube called the Tesseract,         Nick Fury (Samuel L. Jackson), director of S.H.I.E.L.D.,         initiates a superhero recruitment effort to defeat the unprecedented threat to Earth.         Joining Fury dream team are Iron Man (Robert Downey Jr.), Captain America (Chris Evans),         the Hulk (Mark Ruffalo), Thor (Chris Hemsworth), the Black Widow (Scarlett Johansson)         and Hawkeye (Jeremy Renner).</string>
+</resources>
